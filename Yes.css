@@ -1,0 +1,21 @@
+/* RESET */
+
+body, h1, h3, p{
+    margin: 0px;
+    padding: 0px;
+    outline: 0px;
+}
+
+/* RESET */
+
+/* SET */
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #FF69B4;
+}
+
+/* SET */
